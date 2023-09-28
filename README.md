@@ -21,3 +21,7 @@ This coding technique employs Perlin noise and a particle system to simulate the
 
 ![An image of reference](PerlinNoiseFlowFieldColorsrandomall.jpg)
 ![An image of reference](RainbowRain.jpg)
+
+[p5.js of PerlinNoiseFlowFieldColorsrandomall](https://editor.p5js.org/StevesMakerspace/sketches/pJMo9fwPU)
+[p5.js of RainbowRain](https://editor.p5js.org/StevesMakerspace/sketches/erSVBQnr)
+[tutorial of Perlin Noise Flow Field](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
