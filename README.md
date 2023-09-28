@@ -19,5 +19,4 @@ This coding technique employs Perlin noise and a particle system to simulate the
   - Color and Stroke Control: The code's variables allow for adjustments to color, brightness, saturation, and stroke properties, enabling changes in lighting and color variation.
 
 ![An image of reference](Perlin Noise Flow Field Colors random all.jpg)
-![An image of reference](Rainbow Rain.jpg
-)
+![An image of reference](Rainbow Rain.jpg)
