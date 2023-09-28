@@ -12,11 +12,9 @@ This coding technique employs Perlin noise and a particle system to simulate the
   - Particle System: By creating a multitude of particles and guiding their movement based on the flow field, particles move along the direction indicated by the flow field, creating a sense of fluid motion.
   - Color and Stroke Control: The code's variables allow for adjustments to color, brightness, saturation, and stroke properties, enabling changes in lighting and color variation.
 
-![An image of DEEP SEA](shenhai1.jpg
-Links to an external site.)
+![An image of DEEP SEA](shenhai1.jpg)
 
-![An image of DEEP SEA](shenhai2.jpg
-Links to an external site.)
 
-![An image of DEEP SEA](shenhai3.jpg
-Links to an external site.)
+![An image of DEEP SEA](shenhai2.jpg)
+
+![An image of DEEP SEA](shenhai3.jpg)
