@@ -1,32 +1,22 @@
 # jhua0516_9103_tut2
 
-This is a repo that I will use to learn github.
+Week 8
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+- PART I
+Inspired by the particle ink effect depicted in the animated film "Deep Sea," where ink particles move in water, creating captivating colors and visual spectacles, I intend to integrate this mesmerizing particle ink effect into my project. By simulating the dynamic flow and interaction of these ink-like particles, I aim to enrich my project's visual allure and immersion. This approach will offer users a distinctive and interactive experience within the virtual environment, bridging the gap between artistry and interactivity, and aligning perfectly with the project's requirements.
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
 
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
+- PART II
+This coding technique employs Perlin noise and a particle system to simulate the flow effect.
+  - Perlin Noise: By utilizing Perlin noise to calculate angles for each point in the flow field, the code generates natural and organic motion, enhancing the realism of the flow field.
+  - Particle System: By creating a multitude of particles and guiding their movement based on the flow field, particles move along the direction indicated by the flow field, creating a sense of fluid motion.
+  - Color and Stroke Control: The code's variables allow for adjustments to color, brightness, saturation, and stroke properties, enabling changes in lighting and color variation.
 
-  1. First Item
-2. Second Item
-3. Third Item
-
-[Link Text](https://www.google.com
+![An image of DEEP SEA](shenhai1.png
 Links to an external site.)
 
-![An image of a cat](http://placekitten.com/200/300
+![An image of DEEP SEA](shenhai2.png
 Links to an external site.)
 
-![An image of the Mona Lisa](/Users/chingkeiwong/Documents/IDEA9103/week7/assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_
-700.JPG
+![An image of DEEP SEA](shenhai3.png
 Links to an external site.)
